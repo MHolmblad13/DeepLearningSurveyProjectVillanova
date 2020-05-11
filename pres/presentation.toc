@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Intro}{2}{0}{1}
+\beamer@sectionintoc {2}{Buildup}{8}{0}{2}
+\beamer@subsectionintoc {2}{1}{S\&P 500}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{FI-2010}{18}{0}{2}
+\beamer@sectionintoc {3}{Standouts}{22}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{24}{0}{4}
