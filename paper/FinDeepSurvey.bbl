@@ -1,0 +1,214 @@
+\begin{thebibliography}{32}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[qua()]{quantstart}
+High frequency trading ii: Limit order book.
+\newblock URL
+  \url{https://www.quantstart.com/articles/high-frequency-trading-ii-limit-order-book/}.
+
+\bibitem[tra(2020)]{tradientblog.com_2020}
+Understanding the limit order book, Mar 2020.
+\newblock URL
+  \url{https://www.tradientblog.com/2020/03/understanding-the-limit-order-book/}.
+
+\bibitem[A.~Ntakaris \& Iosifidis(2018)A.~Ntakaris and
+  Iosifidis]{benchmarkData}
+A.~Ntakaris, M.~Magris, J. Kanniainen M.~Gabbouj and Iosifidis, A.
+\newblock Benchmark dataset for mid-price forecasting of limit order book data
+  with machine learning methods.
+\newblock \emph{Journal of Forecasting}, 37\penalty0 (8):\penalty0 852--866,
+  2018.
+
+\bibitem[Brownlee(2017)]{brownlee2017}
+Brownlee, Jason.
+\newblock Gentle introduction to bag of words models, Oct 2017.
+\newblock URL
+  \url{https://machinelearningmastery.com/gentle-introduction-bag-words-model/}.
+
+\bibitem[Chong et~al.(2017)Chong, Han, and Park]{Chong2017}
+Chong, Eunsuk, Han, Chulwoo, and Park, Frank.
+\newblock Deep learning networks for stock market analysis and prediction:
+  Methodology, data representations, and case studies.
+\newblock \emph{Expert Systems with Applications}, 83, 04 2017.
+\newblock \doi{10.1016/j.eswa.2017.04.030}.
+
+\bibitem[Culkin \& Das(2017)Culkin and Das]{Culkin2017}
+Culkin, R. and Das, S.~R.
+\newblock Machine learning in finance: The case of deep learning for option
+  pricing.
+\newblock \emph{Journal of Investment Management, github:BlackScholesNN}, 2017.
+
+\bibitem[Dang(2019)]{Vinh2019}
+Dang, Quang-Vinh.
+\newblock Reinforcement learning in stock trading.
+\newblock \emph{Advances in Intelligent Systems and Computing}, 1121, 2019.
+
+\bibitem[Dat Thanh~Tran()]{Tran2017}
+Dat Thanh~Tran, Alexandros~Iosifidis, Juho Kanniainen Moncef~Gabbouj.
+\newblock Temporal attention augmented bilinear network for financial
+  time-series data analysis.
+
+\bibitem[Ding et~al.(2015)Ding, Zhang, Liu, and Duan]{Ding2015DeepLF}
+Ding, Xiao, Zhang, Yue, Liu, Ting, and Duan, Junwen.
+\newblock Deep learning for event-driven stock prediction.
+\newblock In \emph{IJCAI}, 2015.
+
+\bibitem[{Doering} et~al.(2017){Doering}, {Fairbank}, and
+  {Markose}]{Doering2017}
+{Doering}, J., {Fairbank}, M., and {Markose}, S.
+\newblock Convolutional neural networks applied to high-frequency market
+  microstructure forecasting.
+\newblock In \emph{2017 9th Computer Science and Electronic Engineering
+  (CEEC)}, pp.\  31--36, 2017.
+
+\bibitem[Fama(1965)]{behaviorOf}
+Fama, Eugene~F.
+\newblock The behavior of stock-market prices.
+\newblock \emph{Chicago Journals: The Journal of Business}, 38\penalty0
+  (1):\penalty0 34--105, 1965.
+
+\bibitem[Fischer \& Krauss(2017)Fischer and Krauss]{Fischer2017Deep}
+Fischer, Thomas and Krauss, Christopher.
+\newblock Deep learning with long short-term memory networks for financial
+  market predictions.
+\newblock \emph{FAU Discussion papers in Economics}, 2017.
+
+\bibitem[Hiransha~M(2018)]{Hiransha2018}
+Hiransha~M, Gopalakrishnan~E.A, Vijay Krishna Menon~SomanK.P.
+\newblock Nse stock market prediction using deep-learning models.
+\newblock \emph{Procedia Computer Science}, 132:\penalty0 1351--1362, 2018.
+
+\bibitem[Hirsa et~al.(2019)Hirsa, Karatas, and Oskoui]{Hirsa2019}
+Hirsa, Ali, Karatas, Tugce, and Oskoui, Amir.
+\newblock Supervised deep neural networks (dnns) for pricing/calibration of
+  vanilla/exotic options under various different processes.
+\newblock Technical Report 1902.05810, arXiv.org, 2019.
+
+\bibitem[Itkin(2019)]{Itkin2019}
+Itkin, A.
+\newblock Deep learning calibration of option pricing models: some pitfalls and
+  solutions.
+\newblock \emph{arXiv:1906.03507}, 2019.
+
+\bibitem[Kelotra \& Pandey(2020)Kelotra and Pandey]{Kelotra2020}
+Kelotra, Amit and Pandey, Prateek.
+\newblock Stock market prediction using optimized deep-convlstm model.
+\newblock \emph{Big Data}, 8\penalty0 (1):\penalty0 5--24, 2020.
+\newblock \doi{10.1089/big.2018.0143}.
+\newblock URL \url{https://doi.org/10.1089/big.2018.0143}.
+\newblock PMID: 32073904.
+
+\bibitem[Krauss et~al.(2016)Krauss, Do, and Huck]{Krauss2016}
+Krauss, Christopher, Do, Xuan, and Huck, Nicolas.
+\newblock Deep neural networks, gradient-boosted trees, random forests:
+  Statistical arbitrage on the s\& p 500.
+\newblock \emph{European Journal of Operational Research}, 259, 2016.
+
+\bibitem[{LeBaron}(2001)]{LeBaron2001}
+{LeBaron}, B.
+\newblock Empirical regularities from interacting long- and short-memory
+  investors in an agent-based stock market.
+\newblock \emph{IEEE Transactions on Evolutionary Computation}, 5\penalty0
+  (5):\penalty0 442--455, 2001.
+
+\bibitem[Lin et~al.(2017)Lin, Guo, and Aberer]{Lin2017}
+Lin, Tao, Guo, Tian, and Aberer, Karl.
+\newblock Hybrid neural networks for learning the trend in time series.
+\newblock pp.\  2273--2279, 2017.
+\newblock \doi{10.24963/ijcai.2017/316}.
+
+\bibitem[Luss \& d’Aspremont(2012)Luss and d’Aspremont]{Luss2012}
+Luss, Ronny and d’Aspremont, Alexandre.
+\newblock Predicting abnormal returns from news using text classification.
+\newblock \emph{Quantitative Finance}, 15\penalty0 (6):\penalty0 999--1012,
+  2012.
+
+\bibitem[Mathias~Kraus(2017)]{Kraus2017}
+Mathias~Kraus, Stefan~Feuerriegel.
+\newblock Decision support from financial disclosures with deep neural networks
+  and transfer learning.
+\newblock \emph{arXiv:1710.03954}, 2017.
+
+\bibitem[{Passalis} et~al.(2018){Passalis}, {Tefas}, {Kanniainen}, {Gabbouj},
+  and {Iosifidis}]{Passalis2018}
+{Passalis}, N., {Tefas}, A., {Kanniainen}, J., {Gabbouj}, M., and {Iosifidis},
+  A.
+\newblock Temporal bag-of-features learning for predicting mid price movements
+  using high frequency limit order book data.
+\newblock \emph{IEEE Transactions on Emerging Topics in Computational
+  Intelligence}, pp.\  1--12, 2018.
+
+\bibitem[Prahakaran(2019)]{prahakaran_2019}
+Prahakaran, Selva.
+\newblock Arima model time series forecasting in python, Feb 2019.
+\newblock URL
+  \url{https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/}.
+
+\bibitem[{Sachdeva} et~al.(2019){Sachdeva}, {Jethwani}, {Manjunath},
+  {Balamurugan}, and {Krishna}]{Sachdeva2019}
+{Sachdeva}, A., {Jethwani}, G., {Manjunath}, C., {Balamurugan}, M., and
+  {Krishna}, A. V.~N.
+\newblock An effective time series analysis for equity market prediction using
+  deep learning model.
+\newblock In \emph{2019 International Conference on Data Science and
+  Communication (IconDSC)}, pp.\  1--5, 2019.
+
+\bibitem[Siami~Namini \& Siami~Namin(2018)Siami~Namini and
+  Siami~Namin]{Namini2018}
+Siami~Namini, Sima and Siami~Namin, Akbar.
+\newblock Forecasting economics and financial time series: Arima vs. lstm.
+\newblock 2018.
+
+\bibitem[{Tsantekidis} et~al.(2017){Tsantekidis}, {Passalis}, {Tefas},
+  {Kanniainen}, {Gabbouj}, and {Iosifidis}]{Tsantekidis2017U}
+{Tsantekidis}, A., {Passalis}, N., {Tefas}, A., {Kanniainen}, J., {Gabbouj},
+  M., and {Iosifidis}, A.
+\newblock Using deep learning to detect price change indications in financial
+  markets.
+\newblock In \emph{2017 25th European Signal Processing Conference (EUSIPCO)},
+  pp.\  2511--2515, 2017.
+
+\bibitem[Tsantekidis et~al.(2017)Tsantekidis, Passalis, Tefas, Kanniainen,
+  Gabbouj, and Iosifidis]{Tsantekidis2017F}
+Tsantekidis, Avraam, Passalis, Nikolaos, Tefas, Anastasios, Kanniainen, Juho,
+  Gabbouj, Moncef, and Iosifidis, Alexandros.
+\newblock Forecasting stock prices from the limit order book using
+  convolutional neural networks.
+\newblock pp.\  7--12, 07 2017.
+\newblock \doi{10.1109/CBI.2017.23}.
+
+\bibitem[{White}(1988)]{White1988}
+{White}.
+\newblock Economic prediction using neural networks: the case of ibm daily
+  stock returns.
+\newblock In \emph{IEEE 1988 International Conference on Neural Networks}, pp.\
+   451--458 vol.2, 1988.
+
+\bibitem[Xiao~Ding \& Duan(2014)Xiao~Ding and Duan]{Ding2014}
+Xiao~Ding, Yue~Zhang, Ting~Liu and Duan, Junwen.
+\newblock Using structured events to predict stock price movement: An empirical
+  investigation.
+\newblock \emph{In Proc. of EMNLP}, pp.\  1415--1425, 2014.
+
+\bibitem[Xiong et~al.(2015)Xiong, Nichols, and Shen]{Xiong2015}
+Xiong, Ruoxuan, Nichols, Eric, and Shen, Yuan.
+\newblock Deep learning stock volatilities with google domestic trends.
+\newblock \emph{arXiv:1512.04916}, 2015.
+
+\bibitem[Zhou et~al.(2018)Zhou, Pan, Hu, Tang, and Zhao]{Zhou2018StockMP}
+Zhou, Xingyu, Pan, Zhisong, Hu, Guyu, Tang, Siqi, and Zhao, Cheng.
+\newblock Stock market prediction on high-frequency data using generative
+  adversarial nets.
+\newblock 2018.
+
+\bibitem[Zihao~Zhang \& Roberts(2019)Zihao~Zhang and Roberts]{deepLOB}
+Zihao~Zhang, Stefan~Zohren and Roberts, Stephen.
+\newblock Deeplob: Deep convolutional neural networks for limit order books.
+\newblock \emph{IEEE Transactions on Signal Processing}, 67\penalty0
+  (11):\penalty0 3001–3012, 2019.
+
+\end{thebibliography}
