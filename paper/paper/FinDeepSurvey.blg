@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: FinDeepSurvey.aux
+The style file: icml2018.bst
+Database file #1: templateBibliography.bib
+I was expecting a `,' or a `}'---line 216 of file templateBibliography.bib
+ :  
+ :  journal={arXiv:1712.00975} 
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Too many commas in name 1 of "Dat Thanh Tran, Alexandros Iosifidis, Juho Kanniainen, Moncef Gabbouj" for entry Tran2017
+while executing---line 1352 of file icml2018.bst
+Too many commas in name 1 of "Dat Thanh Tran, Alexandros Iosifidis, Juho Kanniainen, Moncef Gabbouj" for entry Tran2017
+while executing---line 1352 of file icml2018.bst
+Warning--to sort, need author or key in tradientblog.com_2020
+Warning--to sort, need author or key in quantstart
+Name 1 in "A. Ntakaris, M. Magris, J. Kanniainen, M. Gabbouj, and A. Iosifidis" has a comma at the end for entry benchmarkData
+while executing---line 1352 of file icml2018.bst
+Too many commas in name 1 of "A. Ntakaris, M. Magris, J. Kanniainen, M. Gabbouj, and A. Iosifidis" for entry benchmarkData
+while executing---line 1352 of file icml2018.bst
+Name 1 in "A. Ntakaris, M. Magris, J. Kanniainen, M. Gabbouj, and A. Iosifidis" has a comma at the end for entry benchmarkData
+while executing---line 1352 of file icml2018.bst
+Too many commas in name 1 of "A. Ntakaris, M. Magris, J. Kanniainen, M. Gabbouj, and A. Iosifidis" for entry benchmarkData
+while executing---line 1352 of file icml2018.bst
+Name 1 in "Xiao Ding, Yue Zhang, Ting Liu, and Junwen Duan" has a comma at the end for entry Ding2014
+while executing---line 1352 of file icml2018.bst
+Name 1 in "Xiao Ding, Yue Zhang, Ting Liu, and Junwen Duan" has a comma at the end for entry Ding2014
+while executing---line 1352 of file icml2018.bst
+Name 1 in "Zihao Zhang, Stefan Zohren, and Stephen Roberts" has a comma at the end for entry deepLOB
+while executing---line 1352 of file icml2018.bst
+Name 1 in "Zihao Zhang, Stefan Zohren, and Stephen Roberts" has a comma at the end for entry deepLOB
+while executing---line 1352 of file icml2018.bst
+Too many commas in name 1 of "Hiransha M, Gopalakrishnan E.A, Vijay Krishna Menon, SomanK.P." for entry Hiransha2018
+while executing---line 1352 of file icml2018.bst
+Too many commas in name 1 of "Hiransha M, Gopalakrishnan E.A, Vijay Krishna Menon, SomanK.P." for entry Hiransha2018
+while executing---line 1352 of file icml2018.bst
+Warning--empty year in quantstart
+Name 1 in "A. Ntakaris, M. Magris, J. Kanniainen, M. Gabbouj, and A. Iosifidis" has a comma at the end for entry benchmarkData
+while executing---line 1434 of file icml2018.bst
+Too many commas in name 1 of "A. Ntakaris, M. Magris, J. Kanniainen, M. Gabbouj, and A. Iosifidis" for entry benchmarkData
+while executing---line 1434 of file icml2018.bst
+Name 1 in "A. Ntakaris, M. Magris, J. Kanniainen, M. Gabbouj, and A. Iosifidis" has a comma at the end for entry benchmarkData
+while executing---line 1434 of file icml2018.bst
+Too many commas in name 1 of "A. Ntakaris, M. Magris, J. Kanniainen, M. Gabbouj, and A. Iosifidis" for entry benchmarkData
+while executing---line 1434 of file icml2018.bst
+Too many commas in name 1 of "Dat Thanh Tran, Alexandros Iosifidis, Juho Kanniainen, Moncef Gabbouj" for entry Tran2017
+while executing---line 1434 of file icml2018.bst
+Too many commas in name 1 of "Dat Thanh Tran, Alexandros Iosifidis, Juho Kanniainen, Moncef Gabbouj" for entry Tran2017
+while executing---line 1434 of file icml2018.bst
+Warning--empty journal in Tran2017
+Warning--empty year in Tran2017
+Warning--empty year in Tran2017
+Too many commas in name 1 of "Hiransha M, Gopalakrishnan E.A, Vijay Krishna Menon, SomanK.P." for entry Hiransha2018
+while executing---line 1434 of file icml2018.bst
+Too many commas in name 1 of "Hiransha M, Gopalakrishnan E.A, Vijay Krishna Menon, SomanK.P." for entry Hiransha2018
+while executing---line 1434 of file icml2018.bst
+Warning--empty journal in Lin2017
+Warning--empty journal in Namini2018
+Warning--empty booktitle in Tsantekidis2017F
+Name 1 in "Xiao Ding, Yue Zhang, Ting Liu, and Junwen Duan" has a comma at the end for entry Ding2014
+while executing---line 1434 of file icml2018.bst
+Name 1 in "Xiao Ding, Yue Zhang, Ting Liu, and Junwen Duan" has a comma at the end for entry Ding2014
+while executing---line 1434 of file icml2018.bst
+Warning--empty booktitle in Zhou2018StockMP
+Name 1 in "Zihao Zhang, Stefan Zohren, and Stephen Roberts" has a comma at the end for entry deepLOB
+while executing---line 1434 of file icml2018.bst
+Name 1 in "Zihao Zhang, Stefan Zohren, and Stephen Roberts" has a comma at the end for entry deepLOB
+while executing---line 1434 of file icml2018.bst
+(There were 25 error messages)
